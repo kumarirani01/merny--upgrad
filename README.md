@@ -36,6 +36,10 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 Learn More
 You can learn more in the Create React App documentation.
 
+
+![Screenshot (598)](https://github.com/kumarirani01/merny--upgrad/assets/127591137/cc754cdb-d982-4437-9c31-88d99299e7c0)
+
+
 To learn React, check out the React documentation.
 
 Code Splitting
