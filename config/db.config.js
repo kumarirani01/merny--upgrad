@@ -1,4 +1,5 @@
 module.exports = {
-    url : 'mongodb+srv://shashidhar495:shashi495@cluster0.b6twmit.mongodb.net/'
+    const uri = "mongodb+srv://ranikumari:RaniThakur$4321@cluster0.vcuf4vc.mongodb.net/"
+
 };
 
